@@ -146,9 +146,3 @@ while True:
 │   ├── chatbot.py              # Interactive chatbot implementation
   ```
 
-7️⃣ Conclusion
-This project serves as an entry point into Generative AI, allowing for hands-on experimentation with text generation, prompt tuning, and chatbot simulations.
-
-👨‍💻 Would love feedback or collaboration! Feel free to fork, contribute, or ask questions.
-
-🚀 Next Project: LLMs & Advanced Prompt Engineering
