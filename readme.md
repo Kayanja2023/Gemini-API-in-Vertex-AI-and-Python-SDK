@@ -128,18 +128,22 @@ while True:
 - Healthcare & Research – AI-generated medical reports, diagnostics assistance
 - Software Development – AI-assisted coding (GitHub Copilot, CodeGPT)
 
+
+6️⃣ Repository Structure
  ```
 📂 generative-ai-fundamentals
-│── 📜 README.md              # Project Overview
+│── 📜 README.md                # Project Overview
 │── 📂 notebooks
-│   ├── 01_basics.ipynb       # Introduction to Generative AI
-│   ├── 02_prompt_tuning.ipynb # Prompt Engineering Examples
-│   ├── 03_chatbot_demo.ipynb  # AI-Powered Chatbot
-│── 📂 data                    # Sample Datasets
+│   ├── 01_basics.ipynb         # Introduction to Generative AI
+│   ├── 02_prompt_tuning.ipynb  # Prompt Engineering Examples
+│   ├── 03_chatbot_demo.ipynb   # AI-Powered Chatbot
+│── 📂 data                     # Sample Datasets
+│   ├── sample_prompts.json     # Example prompts for AI testing
+│   ├── chatbot_training_data.csv # Sample chatbot dialogues
+│   ├── ai_generated_responses.txt # Log of AI outputs
 │── 📂 scripts
-│   ├── ai_text_generation.py  # Python script for API calls
-│   ├── chatbot.py             # Chatbot implementation
- 
+│   ├── ai_text_generation.py   # AI text generation script
+│   ├── chatbot.py              # Interactive chatbot implementation
   ```
 
 7️⃣ Conclusion
